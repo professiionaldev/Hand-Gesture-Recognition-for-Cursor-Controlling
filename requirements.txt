@@ -23,4 +23,4 @@ PyRect==0.2.0
 PyScreeze==0.1.28
 python-dateutil==2.8.2
 pytweening==1.0.4
-six==1.16.0
+six==1.17.0
